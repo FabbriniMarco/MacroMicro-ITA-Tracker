@@ -1,0 +1,901 @@
+food_id	food_name
+000020	Spelt, grain
+000025	Spelt, grain, boiled in water, no salt, drained
+000030	Durum wheat, grain
+000040	Soft wheat, grain
+000045	Couscous, raw
+000046	Couscous, cooked
+000050	Buckwheat, grain
+000060	Sweet corn, grain
+000070	Sweet corn, grain, canned
+000075	Polenta, raw
+000076	Polenta, cooked
+000080	Millet, grain
+000081	Millet, decorticated, grain
+000090	Pearled barley, grain
+000095	Pearled barley, grain, boiled in water, no salt, drained
+000096	Quinoa, raw
+000097	Quinoa, boiled in water, no salt, drained
+000100	Rice polished, raw
+000105	Rice polished, boiled in distilled water, no salt, drained
+000110	Rice, whole, raw
+000115	Rice, whole, boiled in distilled water, no salt, drained
+000120	Parboiled rice, raw
+000125	Parboiled rice, boiled in distilled water, no salt, drained
+000130	Basmati rice, raw
+000135	Basmati rice, boiled in water, no salt, drained
+000140	Venere rice, raw
+000145	Venere rice, boiled in water, no salt, drained
+000150	Wheat bran
+000200	Flour, oat
+000210	Flour, barley
+000220	Flour, wheat, type 00
+000230	Flour, wheat, type 0
+000240	Flour, wheat wholemeal
+000250	Flour, durum wheat
+000260	Flour, corn
+000270	Flour, rice
+000280	Flour, rye
+000290	Flour, soybean
+000300	Corn, starch
+000310	Durum wheat flour (semola)
+000320	Tapioca (manioc flour)
+000330	Wheat germ
+000500	Malted bread
+000510	Rye bread
+000530	Bread,  flour type 0
+000540	Bread,  flour type 1
+000550	Wholemeal bread
+000560	Bread,  flour type 00, rosetta
+000570	Bread crumbs
+000580	Bread rolls, with milk
+000590	Bread rolls, with oil
+000600	Bread, unleavened
+000700	Pizza, white
+000710	Pizza, with tomato
+000720	Pizza, with tomato and mozzarella
+000800	Pasta,  durum wheat flour, raw
+000805	Pasta, durum wheat flour, boiled in distilled water, no salt
+000850	Pasta, wholemeal durum wheat, raw
+000855	Pasta, wholemeal durum wheat, boiled in distilled water, no salt
+000870	Egg pasta, dried, raw
+000871	Egg pasta, dried, boiled in distilled water, no salt
+000875	Ravioli, pasta stuffed with spinach and ricotta, fresh
+000876	Ravioli, pasta stuffed with spinach and ricotta, cooked
+000880	Tortellini, fresh
+000885	Tortellini, fresh, cooked
+000890	Tortellini, dried
+000900	Biscuits "Frollini", shortbread
+000910	Biscuits, wholemeal
+000950	Biscuits, dried
+000960	Biscuits with soybean
+000970	Biscuits with soybean, wholemeal
+000990	Biscuits, wafer
+001000	Crackers with cheese
+001010	Crackers with soybean
+001020	Crackers, salted
+001030	Crackers, wholemeal
+001500	Rusks
+001510	Rusks, wholemeal
+002000	Breadsticks
+002500	Brioches
+002510	Croissants
+003000	Bran wheat, small sticks
+003020	Corn flakes
+003030	Oat bran flakes
+003040	Muesli
+003050	Puffed Rice, breakfast cereal
+004000	Chickpeas, dried, raw
+004005	Chickpeas, dried, boiled without salt, drained
+004010	Chickpeas, canned, drained, raw
+004100	Beans, dried, raw
+004105	Beans, dried, boiled in distilled water, no salt, drained
+004110	Beans, Borlotti, fresh, raw
+004115	Beans, Borlotti, fresh, boiled in distilled water, no salt, drained
+004120	Beans, Borlotti, dried, raw
+004125	Beans, Borlotti, dried, boiled in distilled water, no salt, drained
+004130	Beans, Borlotti, canned, drained
+004200	Beans, Cannellini, dried, raw
+004205	Beans, Cannellini, dried, boiled in distilled water, no salt, drained
+004210	Beans, Cannellini, canned, drained
+004220	Cowpeas, dried
+004305	Italian flat bean, boiled in distilled water, no salt, drained
+004310	Green beans, fresh, raw
+004325	Green beans, frozen, boiled in distilled water, no salt, drained
+004400	Broad beans, raw
+004406	Broad beans, pan-fried without fat and salt
+004410	Broad beans, dried, raw
+004420	Broad beans, dried, shelled, raw
+004425	Broad beans, dried, shelled, boiled in distilled water, no salt, drained
+004500	Lentils, dried, raw
+004505	Lentils, dried, boiled in distilled water, no salt, drained
+004510	Lentils, canned, drained
+004600	Lupines, dried, rehydrated
+004700	Green peas, fresh, raw
+004706	Green peans, fresh, baked in pan,  no salt, no fat added
+004710	Green peas, dried
+004720	Green peas, canned, drained
+004730	Green peas, frozen
+004900	Soy, dried
+004910	Soy, protein isolate
+005000	Garlic, fresh, raw
+005001	Red Castelliri garlic, fresh, raw
+005002	Red Procerno garlic, fresh, raw
+005003	Red Sulmona garlic, fresh, raw
+005004	White Piacentino garlic, fresh, raw
+005010	Garden cress,  fresh, raw
+005025	Garden cress, boiled in distilled water, no salt, drained
+005030	Asparagus, wild, raw
+005040	Asparagus, coltivated, raw
+005045	Asparagus, coltivated,  boiled in distilled water, no salt, drained
+005050	Asparagus, greenhouse, raw
+005060	Red Beet, raw
+005065	Red Beet,  boiled in distilled water, no salt, drained
+005080	Beet, raw
+005084	Beet, cooked by microwave
+005085	Beet, boiled in distilled water, no salt, drained
+005090	Turnip-Tops, raw
+005095	Turnip-Tops, boiled in distilled water, no salt, drained
+005105	Broccoli, head, boiled in distilled water, no salt, drained
+005110	Broccoli, head, fresh, raw
+005120	Artichokes, raw
+005124	Artichokes, cooked by microwave
+005125	Artichokes, boiled in distilled water, no salt, drained
+005130	Artichokes, frozen, raw
+005131	Artichokes Roman IGP
+005132	Artichokes, green, premature
+005134	Artichokes, violet, premature
+005136	Artichokes, Sardinian spiny
+005140	Cardoon, raw
+005150	Carrots, fresh, raw
+005154	Carrots,  cooked by microwave
+005155	Carrots, boiled in distilled water, no salt, drained
+005160	Cauliflower, raw
+005164	Cauliflower, cooked by microwave
+005165	Cauliflower,  boiled in distilled water, no salt, drained
+005170	Brussels Sprouts, raw
+005175	Brussels Sprouts, boiled in distilled water, no salt, drained
+005180	Broccoli, verde ramoso,  raw
+005185	Broccoli, verde ramoso,  boiled in distilled water, no salt, drained
+005190	Cabbage, red
+005195	Cardoon, boiled in distilled water, no salt, drained
+005200	Cabbage, green, raw
+005205	Cabbage, green,  boiled in distilled water, no salt, drained
+005210	Cabbage, savoy,  raw
+005215	Cabbage, savoy,  boiled in distilled water, no salt, drained
+005220	Cucumbers, fresh
+005230	Chicory, greens, cultivated, raw
+005240	Chicory, greens, wild, raw
+005245	Chicory, greens, wild, boiled in distilled water, no salt, drained
+005250	Chicory, witloof, raw
+005300	Onions, raw
+005305	Onions, boiled in distilled water, no salt, drained
+005310	Small Onions, raw
+005315	Small Onions, boiled in distilled water, no salt, drained
+005320	Fennels, raw
+005324	Fennels, cooked by microwave
+005325	Fennels, boiled in distilled water, no salt, drained
+005330	Squash Flowers, fresh
+005340	Turnip, leaf, raw
+005350	Soy Sprouts
+005400	Endive, fresh
+005410	Lettuce, fresh
+005420	Iceberg Lettuce, fresh
+005430	Boston Lettuce, fresh
+005435	Lettuce small, fresh
+005436	Lettuce, packaged, ready-to-use
+005440	Italian Chicory, radicchio, red, fresh
+005441	Italian Chicory, radicchio from Treviso, red, precocius
+005442	Italian Chicory, radicchio from Treviso, red, tardive
+005443	Italian Chicory, radicchio from Castelfranco, variegated
+005450	Italian Chicory, radicchio, green, fresh
+005460	Rocket, leaves, fresh
+005465	Endive, fresh
+005466	Endive, packaged, ready-to-use
+005470	Dandelion Greens, fresh
+005500	Eggplants, raw
+005506	Eggplants, pan-fried without fat and salt
+005507	Eggplants, cooked by microwave, no salt
+005600	Peppers, yellow, red and green,  fresh, crudi
+005606	Peppers, yellow, red and green, fresh, pan-fried without fat and salt
+005610	Peppers, red and yellow, raw
+005620	Peppers, yellow,  raw
+005624	Peppers, yellow, cooked by microwave
+005630	Peppers, red, raw
+005634	Peppers, red, cooked by microwave
+005640	Peppers, green, raw
+005650	Leeks, raw
+005655	Leeks, boiled in distilled water, no salt, drained
+005660	Turnips, raw
+005665	Turnips, boiled in distilled water, no salt, drained
+005670	Radish, fresh
+005680	Celery, raw
+005684	Celery, cooked by microwave, no salt
+005690	Celeriac,  raw
+005700	Spinach, fresh, raw
+005704	Spinach, fresh, cooked by microwave, no salt
+005705	Spinach, fresh, boiled in distelled water, no salt, drained
+005710	Spinach, leaves, frozen
+005720	Squash, fresh
+005730	Zucchini Squash,  raw
+005735	Zucchini Squash, boiled in distilled water, no salt, drained
+005740	Zucchini Squash (Ligth Green), raw
+005741	Zucchini Squash (Ligth Green), steaming, no salt
+005742	Zucchini Squash (Ligth Green), in pain grilled, no salt
+005744	Zucchini Squash (Ligth Green), cooked by microwave, no salt
+005750	Zucchini Squash (Dark Green), raw
+005751	Zucchini Squash (Ligth Green), steaming, no salt
+005752	Zucchini Squash (Ligth Green), in pain grilled, no salt
+005754	Zucchini Squash (Dark Green), cooked by microwave, no salt
+006000	Mushrooms, prataioli, raw
+006006	Mushrooms, prataioli, pan-fried, no salt, no fat added
+006010	Mushrooms, pleurotes, raw
+006016	Mushrooms, pleurotes, pan-fried, no salt, no fat added
+006020	Mushrooms, ovuli, raw
+006030	Mushrooms, porcini, raw
+006200	Truffle, black
+006500	Potatoes, raw
+006505	Potatoes, boiled in distilled water, no salt
+006511	Potatoes, skinned, roasted
+006514	Potatoes, skinned, cooked by microwave, no salt
+006515	Potatoes, skinned, boiled in distilled water, no salt
+006517	Potatoes, skinned, fried
+006570	Potato Chips, packed
+006580	Potatoes, new or earlies, raw
+006584	Potatoes, new or earlies, cooked by microwave, no salt
+006585	Potatoes, new or earlies, boiled in distilled water, no salt
+006590	Potato gnocchi, fresh
+006591	Potato gnocchi, cooked
+006596	Jerusalem Artichoke, boiled in distilled water, no salt
+006600	Tomatoes, fresh
+006610	Tomatoes, ripened, fresh
+006620	Tomatoes, type "San Marzano",  fresh
+006630	Tomatoes, type "Nerina", green, fresh
+006640	Tomatoes, type "Nerina", ripe, fresh
+006650	Tomatoes, cherry, fresh
+006660	Tomatoes, preserve
+006670	Tomatoes, sauce
+006680	Tomatoes, ripened, canned, pulp and juice
+006690	Tomato Juice
+006800	Basil, fresh
+006810	Mint Leaves, fresh
+006820	Pepper, black, grains
+006830	Hot Chili Peppers, fresh
+006840	Parsley, fresh
+006850	Rosemary, fresh
+006860	Sage, leaves, fresh
+006990	Mixed Vegetables, (mais, peas, carrots, beans), frozen
+007000	Apricots, fresh
+007010	Apricots, dehydrated
+007020	Apricots, in syrup
+007030	Apricots, dried
+007040	Watermelon
+007050	Figs, fresh
+007053	Figs, dried in oven and almond added
+007060	Figs, candied
+007070	Figs, dried
+007080	Prickly Pear, fresh
+007090	Persimmon, fresh
+007100	Pomegranate, fresh
+007110	Apples, fresch, peel removed
+007120	Apples, fresch, with peel
+007130	Apples, fresch, variety "Annurca"
+007140	Apples, fresch, variety "Delicious"
+007150	Apples, fresch, variety "Golden Deliciuos"
+007160	Apples, fresch, variety "Granny Smith"
+007170	Apples, fresch, variety "Emperor"
+007180	Apples, fresch, variety "Renetta"
+007190	Apples, fresch, dehydrated
+007220	Quince, fresch
+007230	Cantaloupe, fresch
+007240	Santa Claus Melon, fresh
+007250	Loquats, fresh
+007260	Pears, fresh, peel removed
+007261	Pears, fresh, variety "Abate Fetel"
+007262	Pears, fresh, variety "Coscia"
+007263	Pears, fresh, variety "Kaiser"
+007264	Pears, fresh, variety "Max-red Barlett"
+007265	Pears, fresh, variety "William"
+007270	Pears, candied
+007280	Peaches, fresh, peel removed
+007290	Peaches, fresh, with peel
+007300	Peaches, dried
+007310	Peaches, canned in syrup
+007320	Peaches, dried
+007330	Nectarines, fresh
+007340	Plums, fresh
+007350	Plums, yellow, fresh
+007360	Plums, red, fresh
+007370	Prunes, dried
+007380	Grapes, fresh
+007390	Grapes, white, fresh
+007400	Grapes, black, fresh
+007410	Raisin
+007420	Grape, juice, canned
+007460	Pineapple, fresh
+007470	Pineapple in syrup
+007480	Custard apple, fresh
+007490	Avocado, fresh
+007500	Babaco, fresh
+007510	Bananas, fresh
+007520	Coconut, fresh
+007530	Coconut, dried
+007550	Feijoa, fresh
+007560	Guava, fresh
+007570	Kiwi, fresh
+007580	Litchi, fresh
+007590	Mango, fresh
+007600	Pawpaw, fresh
+007610	Passion Fruit, fresh
+007630	Dates, dried
+007700	Sour Cherry
+007710	Cherry, fresh
+007720	Cherry, candied
+007730	Strawberry
+007740	Raspberry
+007750	Blackberry, wild
+007760	Blueberry
+007770	Currant, fresh
+008000	Oranges, fresh
+008001	Oranges blondes, fresh
+008002	Oranges Valencia, fresh
+008003	Oranges Washington, fresh
+008004	Oranges red, fresh
+008005	Oranges Moro, fresh
+008006	Oranges Sanguinello, fresh
+008007	Oranges Tarocco, fresh
+008010	Orange Juice, fresh
+008011	Oranges blondes Juice, fresh
+008012	Oranges red Juice, fresh
+008020	Clementines
+008030	Lemons
+008040	Lemons, juice
+008050	Tangerines
+008060	Mandarin Oranges
+008070	Grapefruit, fresh
+008500	Peanuts, toasted
+008510	Carobs
+008520	Chestnuts
+008521	Chestnuts,  roasted
+008525	Chestnuts,  boiled without salt, drained
+008530	Chestnuts, dried
+008540	Almonds, sweet, dried
+008550	Hazelnuts, dried
+008560	Walnuts
+008570	Walnuts, dried
+008580	Pecan Nuts
+008590	Pine Nuts
+008600	Pistachios
+008605	Pistachios of Bronte
+008610	Cashew Nuts
+008620	Macadamia Nuts
+008800	Table Olive, preserved
+008810	Black Olive
+008820	Green Olive
+008830	Green Olive, in brine
+008840	Olive Nocellara del Belice
+008850	Olive Giarrafa
+008930	Fruit Juice (apricot and peach)
+008940	Fruit In Syrup, mix
+009010	Peanut Butter
+009100	Margarine (100% vegetable)
+009110	Margarine (1/3 vegetable fats; 2/3 animal fats)
+009200	Olive Oil
+009210	Olive Oil, extra-virgin
+009610	Peanuts Oil
+009620	Coconut Oil
+009630	Rapeseed Oil
+009640	Wheatgerm Oil
+009650	Sunflower Oil
+009660	Corn Oil
+009670	Almond Sweet Oil
+009680	Palm Oil
+009690	Sesame Oil
+009700	Soya Oil
+009710	Grapeseed Oil
+009799	Vegetable Oils (Olive, soy, mais, etc.)
+101120	Beef, front part cuts
+101130	Beef, hind part cuts
+101150	Beef, rib, lean only
+101160	Beef, top side (shank), lean only
+101170	Beef, tenderloin (fillet), lean only
+101180	Beef, eye-round, lean only
+101190	Beef, sirloin-steak, lean only
+101200	Beef, knuckle (thick flank), lean only
+101210	Beef, rump, lean only
+101220	Beef, under top side, lean only
+101230	Beef, shoulder clod, middle rib and chuck, lean only
+101240	Beef, fore shank and hind shank, lean only
+101250	Beef, flank steak and brisket, lean only
+101260	Beef, shoulder clod and blade fillet, lean only
+101520	Calf, fillet, raw
+101521	Calf, fillet, roasted in pan, no fat added, no salt added
+102000	Buffalo, lean only
+103010	Horse, raw
+103020	Horse, lean only
+104020	Lamb, lean only, raw
+104029	Lamb, lean only, cooked
+104030	Lamb, leg, lean only, raw
+104033	Lamb, leg, lean only, baked in oven, no salt, no fat added
+104040	Lamb, cutlet, lean only, raw
+104043	Lamb, cutlet, lean only, baked in oven, no salt, no fat added
+104250	Goat, lean only
+104300	Kid, lean only
+104610	Sheep, lean only, raw
+105200	Swine, light, leg
+105210	Swine, light, loin
+105220	Swine, light, shoulder
+105230	Swine, light, steak, raw
+105236	Swine, light, steak, cooked in pan, no salt and fat added
+105600	Swine, heavy, leg
+105700	Swine, heavy, loin
+105800	Swine, heavy, shoulder
+106010	Duck, domestic
+106020	Guinea Fowl, thigh, with skin, raw
+106030	Guinea Fowl, thigh, without skin, raw
+106032	Guinea Fowl, leg, without skin, cooked on the spit, no salt, no fat added
+106050	Guinea Fowl, breast, without skin, raw
+106052	Guinea Fowl, breast, without skin, cooked on the spit, no salt, no fat added
+106100	Hen
+106150	Goose
+106200	Chicken, whole, with skin, raw
+106203	Chicken, whole, with skin, baked in oven, no salt, no fat added, dripped
+106210	Chicken, whole, no skin, raw
+106213	Chicken, whole, no skin, baked in oven, no salt, no fat added, dripped
+106251	Chicken, whole, with skin, roasted (goods store)
+106261	Chicken, whole, no skin, roasted (goods store)
+106270	Chicken, wing, with skin, raw
+106273	Chicken, wing, with skin, baked in oven, no salt, no fat added, dripped
+106400	Chicken, drumstick, with skin, baked in oven, no salt, no fat added, dripped
+106403	Chicken, drumstick, with skin, raw
+106410	Chicken, drumstick, no skin, raw
+106413	Chicken, drumstick, no skin, baked in oven, no salt, no fat added, dripped
+106500	Chicken, breast, raw
+106506	Chicken, breast, cooked in pan, no salt, no fat added
+106600	Chicken,  leg quarter, with skin, raw
+106603	Chicken, leg quarter, with skin, baked in oven, no salt, no fat added, dripped
+106610	Chicken,  leg quarter, no skin, raw
+106613	Chicken,  leg quarter, no skin, baked in oven, no salt, no fat added, dripped
+106700	Turkey, whole, with skin, raw
+106710	Turkey, whole, no skin, baked in oven, no salt, no fat added, dripped
+106719	Turkey, whole, no skin, raw
+106800	Turkey, thigh, with skin, raw
+106850	Turkey, breast, cooked in pan, no salt, no fat added
+106856	Turkey, breast, raw
+106900	Turkey, leg, with skin, raw
+106903	Turkey, leg, with skin, baked in oven, no salt, no fat added, dripped
+106910	Turkey, leg, no skin, baked in oven, no salt, no fat added, dripped
+106913	Turkey, leg, no skin, raw
+106960	Turkey, leg quarter, no skin, baked in gas oven, no salt, no fat added, dripped
+106963	Turkey,  leg quarter, no skin, raw
+107010	Rabbit, whole, raw
+107019	Rabbit, whole, cooked
+107020	Rabbit, whole, deep-frozen
+107030	Rabbit, thigh
+108010	Deer, lean only
+108100	Buck
+108510	Pheasant
+108520	Pigeon Young, raw
+108530	Quail, raw
+108900	Ostrich, lean only, raw
+108901	Ostrich, lean only, baked in oven, no salt, no fat added, dripped
+109010	Snail
+109510	Frog, raw
+110020	Bresaola, cured meat
+110100	Capocollo, cured meat
+110110	Capocollo, Calabria, cured meat
+110130	Ciccioli, scraps of swine fat
+110150	Coppa, cured meat
+110190	Cotechino, precooked packed, raw
+110195	Cotechino, Modena, cooked
+110200	Mortadella,  Bologna, swine
+110210	Mortadella, bovine & swine
+110300	Bacon, fat reduced, swine
+110310	Bacon, tense, swine
+110320	Bacon, rolled, swine
+110400	Ham
+110401	Ham, visible fat removed
+110410	Ham, high quality
+110411	Ham, high quality, visible fat removed
+110420	Ham, selected
+110421	Ham, selected, visible fat removed
+110500	Prosciutto, Modena
+110501	Prosciutto, Modena, visible fat removed
+110505	Prosciutto, mountain
+110510	Prosciutto, Parma
+110511	Prosciutto, Parma, visible fat removed
+110515	Prosciutto, Pietraroja
+110520	Prosciutto, San Daniele
+110521	Prosciutto, San Daniele, visible fat removed
+110525	Prosciutto, whole, bone removed
+110526	Prosciutto, whole, bone removed, visible fat removed
+110530	Prosciutto, gambuccio
+110535	Prosciutto, National
+110536	Prosciutto, National, visible fat removed
+110600	Salami, Brianza type
+110610	Salami, Cacciatore type
+110620	Salami, Fabriano type
+110630	Salami, Felino type
+110640	Salami, Milano type
+110650	Salami, Napoli type
+110660	Salami, Italian average
+110670	Salami, Ungherese type
+110700	Sausage, liver
+110710	Sausage, swine, fresh, raw
+110716	Sausage, swine, fresh, cooked in pan, no salt, no fat added 
+110720	Sausage, swine, dried
+110730	Sausage, Calabria, cured meat
+110740	Soppressata, Calabria, cured meat
+110800	Speck
+110900	Wurstel, pure swine, raw
+110906	Wurstel, pure swine, cooked in pan, no fat added, no salt added
+110950	Zampone, precooked packed, raw
+110955	Zampone, precooked packed, boiled
+113010	Beef, in jelly, canned
+113020	Beef, pressed, canned
+114010	Pate, rabbit
+114020	Pate, liver
+114030	Pate, chicken
+114040	Pate, ham
+115010	Sweetbreads - Thymus Bovine Organ
+115019	Sweetbreads - Thymus Bovine Organ, cooked
+115110	Brain, bovine
+115120	Giblets, lamb
+115130	Giblets, calf
+115210	Heart, bovine, raw
+115219	Heart, bovine, cooked
+115220	Heart, horse
+115230	Heart, ovine
+115240	Heart, chicken, raw
+115249	Heart, chicken, cooked
+115250	Heart, swine, raw
+115260	Heart, turkey,  raw
+115269	Heart, turkey, cooked
+115320	Liver, bovine
+115329	Liver, bovine, cooked
+115340	Liver, horse
+115350	Liver, ovine
+115360	Liver, chicken, raw
+115369	Liver, chicken, coocked
+115370	Liver, swine, raw
+115379	Liver, swine, cooked
+115380	Liver, turkey, raw
+115389	Liver, turkey, cooked
+115400	Toungue, bovine, raw
+115409	Tongue Bovine, fried
+115500	Spleen, bovine
+115600	Lung, bovine, raw
+115710	Kidney, bovine, raw
+115800	Tripe Bovine
+119020	Cheese Burger, fast food preparation
+119030	Hamburger, fast food preparation
+119040	Chicken Nuggets, fast food
+119050	Hamburger, only meat, fast food preparation
+119060	Bread, fast food preparation
+119070	Bread and small hamburger,  fast food preparation
+119080	French fries, fast food preparation
+120010	Anchovy, fresh, raw
+120020	Anchovy, in oil
+120030	Anchovy, salted
+120210	Eel, smoked
+120220	Eel, pickled
+120230	River Eel
+120240	Sea Eel
+120250	Eel, fish breeding, fillets
+120290	Freshwater Large Female Eel
+120300	Herring, fresh
+120310	Herring, smoked
+120320	Herring, pickled
+120330	Herring, salted
+120400	Bogue
+120500	Carp
+120510	Flathead Mullet
+120590	Flathead Mullet, eggs (bottarga)
+120610	Groper, deep frozen
+120710	Lake Whitefish, coregone
+120810	Corb, brown meagre
+120910	Dentex, fresh
+120920	Dentex, deep frozen
+121010	Halibut
+121100	Sand Smelt
+121200	Pike
+121310	Whiting, fresh
+121320	Whiting, stockfish, dried
+121330	Whiting, stockfish, dried, rehydrated
+121410	Cod, raw
+121420	Cod, deep frozen, raw
+121423	Cod, deep frozen, roasted in oven
+121424	Cod, deep frozen, cooked by microwave
+121430	Cod, fillet, deep frozen
+121440	Cod, codfish, dried, raw
+121450	Cod, codfish, dried, rehydrated, raw
+121490	Cod, fish' s sticks, deep frozen
+121500	Poor Cod
+121600	Saddled Bream
+121710	Gilthead, deep frozen, raw
+121720	Glithead, fillets, raw
+121730	Glithead, fish breeding, fillets, raw
+121800	Seabream, fresh
+121900	Auratus Seabream, fresh
+122000	Dogfish, raw
+122100	Catfish, fresh
+122200	Thornback Ray, fresh
+122300	Turbot, fresh
+122400	Salmon, fresh
+122410	Salmon, smocked
+122430	Salmon,  in brine
+122500	Salema, fresh
+122600	Seabream, fresh
+122700	Round Sardinella, fresh
+122800	Pilchard, fresh
+122806	Pilchard, fried
+122900	Scorpionfish, fresh
+123000	Mackerel, fresh
+123010	Mackerel, in brine
+123100	Sole, fresh
+123110	Sole, deep frozen
+123200	Sea Bass, fresh
+123220	Sea Bass, fish breeding, fillets
+123300	Sturgeon, fresh
+123390	Sturgeon'S Eggs (Caviar)
+123400	Tench, fresh
+123500	Tuna, fresh
+123550	Brine Tuna, driped
+123610	Tuna, in oil, driped
+123900	Mullet, fresh
+124000	Trout, fresh
+124010	Trout, deep frozen
+124013	Trout, deep frozen, baked in oven, no salt, no fat added, driped
+124014	Trout, deep frozen, cooked by microwave
+124050	Rainbow Trout, fish breeding, fillets raw
+124100	Scad
+127100	Squid, fresh
+127110	Squid, deep-freezed
+127120	Mussel
+127130	Oyster, fresh
+127150	Octopus, fresh
+127160	Cuttlefish, fresh
+127170	Clam, fresh
+128050	Lobster, fresh
+128055	Lobster, boiled
+128100	Prawns, fresh, 
+128110	Prawns, shelled, frozen
+128200	Crab, canned
+130010	Milk, goat
+131010	Milk, sheep
+132010	Milk, buffalo
+135010	Milk, cow, whole
+135020	Milk, cow, partially skimmed
+135030	Milk, cow,  skimmed
+135510	Milk, cow, condensed, sugared
+135520	Milk, cow, dry off, not sugared
+135610	Milk, cow, whole, dried
+135620	Milk, cow, partially skimmed, dried
+135630	Milk, cow, skimmed, dried
+135810	Milk, cow, uht, whole
+135820	Milk, cow, uht, partially skimmed
+140100	Milk Cream (fat 12%)
+140300	Milk Cream, 35% lipid
+140400	Milk Cream, UHT, 23% lipid
+150010	Yogurt, whole milk
+150015	Yogurt, 0% fat
+150020	Yogurt, whole milk, greek
+150025	Yogurt, low-fat milk, greek, with fruit
+150030	Yogurt, greek, 0% fat
+150035	Yogurt, greek, 0% fat, flavored
+150500	Yogurt, whole milk, with fruit
+151000	Yogurt, semiskimmed milk
+152000	Yogurt, skimmed milk
+158000	Yogurt, goat milk
+160400	Cheese, semi soft
+160410	Cheese, brie
+160420	Cheese, semisoft, burrino
+160430	Cheese, semisoft, "butirro calabro"
+160800	Cheese, semisoft, caciocavallo
+160810	Cheese, semisoft, goat's cacioricotta
+160820	Cheese, semisoft, mixed caciotta
+160830	Cheese, semisoft, sheep's caciotta romana
+160840	Cheese, semisoft, tuscan caciotta
+160850	Cheese, semisoft, cow's caciottina
+160860	Cheese, semisoft, fresh caciottina
+160870	Cheese, semisoft, camembert
+160880	Cheese, cheddar
+160890	Cheese, soft, crescenza
+161200	Cheese, sweet green
+161600	Cheese, edam
+161610	Cheese, emmenthal
+162000	Cheese, feta
+162010	Cheese, semisoft, fiordilatte
+162020	Cheese, fontina
+162030	Cheese, soft, formaggino
+162040	Cheese, soft, formaggino light
+162050	Cheese, spreadable, soft white, full fat
+162400	Cheese, soft, gorgonzola
+162410	Cheese, Grana Padano, PDO, hard cheese
+162420	Cheese, gruyere
+163200	Cheese, italico
+164400	Cheese, semihard, latteria
+164800	Cheese, soft, mascarpone
+164810	Mozzarella,  buffalo milk
+164811	Mozzarella,  buffalo milk
+164820	Mozzarella, cow milk
+166000	Cheese, Parmigiano Reggiano, PDO, hard cheese
+166010	Cheese, semisoft cheese, mixed caciottina
+166050	Cheese, hard cheese, pecorino, sheep milk
+166060	Cheese, hard cheese, roman pecorino, sheep milk 
+166070	Cheese, hard cheese, sicilian pecorino, sheep milk 
+166100	Cheese, semisoft, provolone
+166800	Cheese, ricotta, buffalo milk
+166810	Cheese, ricotta,  sheep milk
+166820	Cheese, ricotta, cow milk
+166850	Cheese, soft, robiola
+167200	Cheese,  semisoft, scamorza
+167250	Cheese, soft cheese, stracchino
+167600	Cheese, soft, taleggio
+170010	Cheese, light, flakes
+170510	Cheese, spreadable, soft white, low fat
+180010	Duck Egg, whole
+181100	Chicken Egg, whole
+181105	Chicken Egg, whole, boiled, a la coque or hard-boiled
+181117	Chicken Egg, whole, fried, omelette or scrumbled
+181500	Chicken Egg, whole, frozen
+181600	Chicken Egg, whole, powder
+182010	Chicken Egg, white
+183010	Chicken Egg, yolk
+183015	Chicken Egg, yolk, boiled without shell
+183800	Chicken Egg, yolk, frozen
+183900	Chicken Egg, yolk, powder
+185010	Goose Egg, whole
+189010	Turkey Egg, whole
+190010	Butter
+191010	Lard, spread
+192010	Tallow
+193010	Lard, swine fat only
+194000	Cod liver oil
+201500	Sugar, white
+202010	Hard Candies
+202020	Toffee
+202030	Tablets, sugar-coated chocolate
+202500	Chewing Gum, bars and confections
+202800	Nougat With Almond
+203010	Chocolate, milk
+203020	Chocolate, dark
+203030	Chocolate, milk with hazelnut
+203500	Spread, hazelnut cocoa
+204010	Sweet, candied fruits
+204500	Jam
+206010	Ice Cream, cocoa cream ice, packed
+206020	Ice Cream, coffee, packed
+206040	Ice Cream, milk shower, packed
+206050	Ice Cream, milk shower, coated by strawbery ice lolly, packed
+206060	Ice Cream, hazelnut, packed in dish
+206070	Ice Cream, cream, packed
+206080	Ice Cream, cream coated by dark chocolate, packed
+206090	Ice Cream, stracciatella (cream with chocolate chips), packed
+206100	Ice Cream, vanille, packed
+206260	Ice Cream cookie with cream, zabaione and chocolate
+206270	Ice Cream, cone with cream and chocolate, packed
+206280	Ice Cream, cone with cream, chocolate chip, hazelnut, packed
+206710	Popsicle,  orange ice lolly, packed
+206800	Sorbet, lemon, packed
+207010	Baba' with Rhum
+207020	Pastry, horns filled with custard
+208500	Tart with cacao cream
+208510	Tart with jam
+208520	Tart with apricot jam, retail
+209010	Cake " Margherita"
+210010	Honey
+210030	Short cake, with jam, packed
+210040	Short cake, wtih cocoa, packed
+210050	Short cake, like sponge cake
+210060	Short cake, like sponge cake
+210070	Short cake, like shortcrust pastry
+214000	Coconut snack,  covered by chocolate
+214500	Snack wafer coated by chocolate
+215000	Ladyfingers
+216000	Panettone
+217000	Almond paste
+401010	Soft drink, orange
+401100	Soft drink, coke
+403010	Aperitifs, wine based
+404010	Beer, light colour
+405010	White Wine
+405020	Red Wine
+406010	Marsala, italian cured wine
+406500	Vermouth, sweet
+406510	Vermouth, dry
+407010	Liquor, dessert
+407510	Marsala, italian cured wine with egg
+408010	Brandy
+408100	Grappa, spirit
+408900	Whisky, spirit
+409000	Sparkling Wine
+501200	Popcorn
+502260	Tomato Ketchup
+502760	Mayonnaise
+503010	Stock Cubes
+503100	Yeast, compressed
+504010	Flour, chestnut
+504100	Potato-Flour
+507100	Royal Jelly
+508010	Cocoa, bitter, powder
+508100	Tea, leaves
+508200	Coffee, toasted, powder
+509010	Soy, milk
+509020	Soy, sauce
+509030	Soy, yoghurt
+900010	Soup, canned, asparagus cream
+900110	Soup, canned, onion cream
+900210	Soup, canned, mushrooms cream
+900310	Soup, canned, chicken cream
+900410	Soup, canned, tomato cream
+905010	Potage, cooked,freeze
+905100	Potage, freezer-dried
+PC0001	Pizza Napoletana Margherita
+PC0002	Ricotta Stuffed Roll
+PC0003	Braised Beef with Barolo
+PC0004	Vicentina Cod
+PC0005	Tuscan Castagnaccio
+PC0006	Tomato sauce
+PC0007	Ragù sauce
+PC0008	Pesto sauce
+PC0009	Risotto with parmesan
+PC0010	Pasta and beans
+PC0011	Omelette
+PC0012	Stew beef
+PC0013	Turkey escalope with lemon
+PC0014	Trout baked
+PC0015	Stewed cod
+PC0016	Pasta with tomato sauce
+PC0017	Pasta with ragù
+PC0018	Pasta with pesto sauce
+PC0019	Rice boiled with tomato
+PC0020	Rice with ragu
+PC0021	Rice with butter and parmesan
+PC0022	Gnocchi with tomato sauce
+PC0023	Gnocchi with ragù
+PC0024	Gnocchi with pesto sauce
+PC0025	Ravioli with butter and sage
+PC0026	Ravioli with tomato sauce
+PC0027	Polenta with tomato sauce
+PC0028	Polenta with ragù sauce
+PC0029	Anchovies baked
+PC0030	Sea bass, baked in foil
+PC0031	Sole, cooked with white wine
+PC0032	Omelette with ham and cheese
+PC0033	Pasta with sheep cheese and pepper
+PC0034	Pasta with butter and Parmesan
+PC0035	Pasta with garlic, olive oil and chili pepper
+PC0036	Marinated anchovies
+PC0037	Carbonara Pasta
+PC0038	Pasta with clams
+PC0039	Amatriciana Pasta
+PC0040	Roman artichokes
+PC0041	Tomatoes stuffed with rice
+PC0042	Parmesan aubergine
+PC0043	Potato flan
+PC0044	Béchamel
+PC0045	Sponge cake
+PC0046	Pastiera cake
+PC0047	Apple pie
+PC0048	Lasagna
+PC0049	Mayonnaise, homemade
+PC0050	Pasta, wholemeal durum wheat, with tomato sauce
+PC0051	Grilled zucchini
+PE0001	Cantonese rice
+PE0002	Nachos
+PE0003	Kebab only meat
+PE0004	Falafel
+PE0005	Romanian sarmale
+PE0006	Spring rolls
+PE0007	Shrimp clouds
+PE0008	Steamed Chinese ravioli
+PE0009	Fried noodles
+PE0010	Chicken with pineapple
+PE0011	Almods chicken
+PE0012	Sweet and Sour pork
+PE0013	Prawns with mushrooms and bamboo
+PE0014	Mixed fruit caramel
+PE0015	Mixed Fried Ice Cream
+PE0016	Hummus
+PE0017	Tabbouleh
