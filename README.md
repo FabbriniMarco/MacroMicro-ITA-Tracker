@@ -5,8 +5,8 @@ MacroMicro-ITA-Tracker is a free open-source nutritional data calculator tool th
 This tool allows users to select foods from a comprehensive list of 900 foods, specify the quantity in grams, and get detailed information about the macro and micronutrients present in the dietary intake.
 
 <div align=center>
-  <img src="https://github.com/FabbriniMarco/MacroMicro-ITA-Tracker/assets/83694005/b1adb2c3-c94e-4f59-9e17-893b080c6c71" width="650" height="420">
-  <img src="https://github.com/FabbriniMarco/MacroMicro-ITA-Tracker/assets/83694005/433cf281-16c5-47e8-8077-95bcab8ed0d1" width="650" height="420">
+  <img width="377" alt="Screenshot 1" src="https://github.com/user-attachments/assets/e4362888-75c9-49d4-877b-bdd415b5390d" width="650" height="420">
+  <img width="377" alt="Screenshot 2" src="https://github.com/user-attachments/assets/15b6256f-c3d7-4663-923f-ef995f35de69" width="650" height="420">
 </div>
 
 <br>
