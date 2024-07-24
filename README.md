@@ -1,3 +1,7 @@
+<div align=center>
+  <img width="196" alt="Circle logo" src="https://github.com/user-attachments/assets/46f5dbf9-aee4-4d8d-a1d4-bbe468bfdfcf" height="186">
+</div>
+
 # MacroMicro-ITA-Tracker: Analyze Diets with Italian Food Tables
 
 MacroMicro-ITA-Tracker is a free open-source nutritional data calculator tool that helps researchers and clinicians to analyze the nutritional content of Italian meals. The food tables have been downloaded from the "CREA Centro di ricerca Alimenti e Nutrizione" (Italian Council for Agricultural Research and Analysis of Agricultural Economic) web page: https://www.alimentinutrizione.it/sezioni/tabelle-nutrizionali and https://www.alimentinutrizione.it.
@@ -5,8 +9,8 @@ MacroMicro-ITA-Tracker is a free open-source nutritional data calculator tool th
 This tool allows users to select foods from a comprehensive list of 900 foods, specify the quantity in grams, and get detailed information about the macro and micronutrients present in the dietary intake.
 
 <div align=center>
-  <img width="377" alt="Screenshot 1" src="https://github.com/user-attachments/assets/e4362888-75c9-49d4-877b-bdd415b5390d" width="650" height="420">
-  <img width="377" alt="Screenshot 2" src="https://github.com/user-attachments/assets/15b6256f-c3d7-4663-923f-ef995f35de69" width="650" height="420">
+  <img width="377" alt="Screenshot 1" src="https://github.com/user-attachments/assets/e4362888-75c9-49d4-877b-bdd415b5390d" height="420">
+  <img width="377" alt="Screenshot 2" src="https://github.com/user-attachments/assets/15b6256f-c3d7-4663-923f-ef995f35de69" height="420">
 </div>
 
 <br>
@@ -18,7 +22,6 @@ This tool allows users to select foods from a comprehensive list of 900 foods, s
 - [Installation and usage](#installation-and-usage)
 - [Add food and export data](#add-food-and-export-data)
 - [Data Sources](#data-sources)
-- [Acknowledgements](#acknowledgements)
 - [Citation](#citation)
 - [License](#license)
   
