@@ -21,6 +21,7 @@ This tool allows users to select foods from a comprehensive list of 900 foods, s
 - [Features](#features)
 - [Installation and usage](#installation-and-usage)
 - [Add food and export data](#add-food-and-export-data)
+- [Visual example](#visual-example)
 - [Data Sources](#data-sources)
 - [Citation](#citation)
 - [License](#license)
@@ -104,6 +105,16 @@ Food data in the CREA food tables are reported with macronutrients in absolute q
 <br>
 <br>
 
+## Visual example
+
+<div align=center>
+  <img width="377" alt="GIF 1" src="https://github.com/user-attachments/assets/0dd94703-542d-42c3-bb15-3f750a25722e" height="420">
+  <img width="377" alt="GIF 2" src="https://github.com/user-attachments/assets/98d37ea1-c1d8-4e9e-8cdd-d448bac58cfd" height="420">
+</div>
+
+<br>
+<br>
+
 ## Data Sources
 The nutritional data used by this tool is sourced from the CREA food tables, which can be consulted at the original source.
 Reference is: CREA Food and Nutrition Research Center, Web page: https://www.crea.gov.it/alimenti-e-nutrizione and Web page: https://www.alimentinutrizione.it
@@ -112,13 +123,12 @@ Reference is: CREA Food and Nutrition Research Center, Web page: https://www.cre
 <br>
 <br>
 
-
 ## Citation
 If you use this tool, please cite both the tool and the CREA, Centro di ricerca Alimenti e la Nutrizione. 
 
 ```diff
 @Manual{,
-  title = {MacroMicro-ITA-Tracker: Analyze Diets with Italian CREA Food Tables},
+  title = {MacroMicro-ITA-Tracker: Analyze Diets with Italian Food Tables},
   author = {Marco Fabbrini},
   year = {2024},
   note = {Version v1.0},
@@ -135,7 +145,7 @@ If you use this tool, please cite both the tool and the CREA, Centro di ricerca 
 ```
 
 Example: 
-> Fabbrini, M. (2024) 'MacroMicro-ITA-Tracker: Analyze Diets with Italian CREA Food Tables'. Available on Github: https://github.com/FabbriniMarco/MacroMicro-ITA-Tracker.git
+> Fabbrini, M. (2024) 'MacroMicro-ITA-Tracker: Analyze Diets with Italian Food Tables'. Available on Github: https://github.com/FabbriniMarco/MacroMicro-ITA-Tracker.git
 <br>
 
 > CREA-AN (2019) 'TABELLE DI COMPOSIZIONE DEGLI ALIMENTI, CREA AN, Aggiornamento 2019'. Website: https://www.alimentinutrizione.it/tabelle-di-composizione-degli-alimenti
