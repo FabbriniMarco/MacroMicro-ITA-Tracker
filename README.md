@@ -121,7 +121,7 @@ Food data in the CREA food tables are reported with macronutrients in absolute q
 <br>
 
 ## Data Sources
-The nutritional data used by this tool is obtained from the CREA food tables, which can be consulted at the original source, Web page: https://www.crea.gov.it/alimenti-e-nutrizione and Web page: https://www.alimentinutrizione.it
+The nutritional data used by this tool has been obtained from the CREA food tables, which can be consulted at the original source, Web page: https://www.crea.gov.it/alimenti-e-nutrizione and Web page: https://www.alimentinutrizione.it
 
 
 <br>
