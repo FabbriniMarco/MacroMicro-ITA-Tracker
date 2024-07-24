@@ -4,9 +4,7 @@
 
 # MacroMicro-ITA-Tracker: Analyze Diets with Italian Food Tables
 
-MacroMicro-ITA-Tracker is a free open-source nutritional data calculator tool that helps researchers and clinicians to analyze the nutritional content of Italian meals. The food tables have been downloaded from the "CREA Centro di ricerca Alimenti e Nutrizione" (Italian Council for Agricultural Research and Analysis of Agricultural Economic) web page: https://www.alimentinutrizione.it/sezioni/tabelle-nutrizionali and https://www.alimentinutrizione.it.
-
-This tool allows users to select foods from a comprehensive list of 900 foods, specify the quantity in grams, and get detailed information about the macro and micronutrients present in the dietary intake.
+MacroMicro-ITA-Tracker is a free open-source nutritional data calculator tool that helps researchers and clinicians to analyze the nutritional content of Italian meals. This tool allows users to select foods from a comprehensive list of 900 foods, specify the quantity in grams, and get detailed information about the macro and micronutrients present in the dietary intake.
 
 <div align=center>
   <img width="377" alt="Screenshot 1" src="https://github.com/user-attachments/assets/e4362888-75c9-49d4-877b-bdd415b5390d" height="420">
@@ -46,12 +44,19 @@ This tool allows users to select foods from a comprehensive list of 900 foods, s
 
 ## Installation and usage
 
-### Windows user: portable pre-built .exe file
-If you are a Windows user, you just need to fetch the NutriTableCREAtion.exe file either cloning this repo or downloading from the [Release](https://github.com/FabbriniMarco/MacroMicro-ITA-Tracker/releases) section.
-Once downloaded simply double-click the .exe file. That's it!
+### Windows 10/11 users: portable pre-built .exe file
+If you are a Windows user, you just need the MacroMicro-ITA-Tracker.exe file. 
+It can be obtained:
+<div align=center>
+  <a href="https://github.com/FabbriniMarco/MacroMicro-ITA-Tracker/releases/download/v1.0/MacroMicro-ITA-Tracker.exe">clicking on this link for a direct download of the latest release</a>
+</div> <br>
+
+In addition you can also clone this repo, or manually download the .exe file from the [Release](https://github.com/FabbriniMarco/MacroMicro-ITA-Tracker/releases) section.
+Once downloaded simply double-click the MacroMicro-ITA-Tracker.exe file. That's it!
+
 The .exe file has been signed, therefore no warnings related to unknown developers should appear when opening the program.
 <br>
-
+<br>
 ### Linux and MacOS users: run the python script
 #### Prerequisites
 - Python 3.7 or higher
@@ -98,7 +103,7 @@ python MacroMicro-ITA-Tracker.py
 Info: Click the "Info" button for details about the program, including version, maintainer contact, and reference links. <br>
 External Links: Use the "Github" button to visit this project's GitHub repository. <br>
 
-
+The food tables used by this tool have been downloaded from the "CREA Centro di ricerca Alimenti e Nutrizione" (Italian Council for Agricultural Research and Analysis of Agricultural Economic) web page: https://www.alimentinutrizione.it/sezioni/tabelle-nutrizionali and https://www.alimentinutrizione.it.
 Food data in the CREA food tables are reported with macronutrients in absolute quantities (grams) and micronutrients in percentages based on the Protein and Lipid fractions. When a food item is added to the list, the tool calculates the relative macronutrient content based on the input quantity. This relative amount is then used to determine the precise absolute quantity of micronutrients according to the percentages from the food tables. The tool generates a TSV table that shows the total amounts of both micro and macronutrients in absolute quantities (grams, milligrams, micrograms, millimoles, or kJ/kcal for energy).
 
 
@@ -116,8 +121,7 @@ Food data in the CREA food tables are reported with macronutrients in absolute q
 <br>
 
 ## Data Sources
-The nutritional data used by this tool is sourced from the CREA food tables, which can be consulted at the original source.
-Reference is: CREA Food and Nutrition Research Center, Web page: https://www.crea.gov.it/alimenti-e-nutrizione and Web page: https://www.alimentinutrizione.it
+The nutritional data used by this tool is obtained from the CREA food tables, which can be consulted at the original source, Web page: https://www.crea.gov.it/alimenti-e-nutrizione and Web page: https://www.alimentinutrizione.it
 
 
 <br>
